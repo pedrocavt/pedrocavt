@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Vitor</h1>
 <h3 align="center">Frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **NodeJS, React, PHP**
+- 🌱 I’m currently learning **PHP, Laravel, React**
 
 - 👨‍💻 My website [https://pedrovitor-dev.000webhostapp.com/](https://pedrovitor-dev.000webhostapp.com/)
 
