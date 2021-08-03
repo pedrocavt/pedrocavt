@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Vitor</h1>
-<h3 align="center">Frontend developer from Brazil</h3>
+<h3 align="center">Web developer from Brazil</h3>
 
 - 🌱 I’m currently learning **PHP, Laravel, VueJS**
 
